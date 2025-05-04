@@ -27,7 +27,7 @@ Analyze ride data from a fictional bike-share company to identify user behavior 
 - `visualizations/`: Graphs and plots generated using ggplot2
 
 ## 🔗 Certification
-[Link to Google Data Analytics Certificate, if public]
+https://www.coursera.org/account/accomplishments/professional-cert/certificate/NQL5RZ3PWFTA
 
 ## 🔗 LinkedIn Project Post
-[Add your LinkedIn project post URL here if showcasing]
+https://www.linkedin.com/in/ayush-adhikari-484682288/
